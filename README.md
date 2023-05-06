@@ -17,7 +17,7 @@ I am a second year Computer Engineering Student at [MIT Academy Of Engineering](
 
 ## Skills:
 
-#### Languages:
+#### Technologies:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
