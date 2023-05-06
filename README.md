@@ -84,6 +84,17 @@ I am a second year Computer Engineering Student at [MIT Academy Of Engineering](
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasadDhobale&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prasad's github stats" /></a> | <a href="https://github.com/PrasadDhobale/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadDhobale&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PrasadDhobale&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PrasadDhobale&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PrasadDhobale&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=PrasadDhobale&row=2&column=3" />](https://github.com/PrasadDhobale/github-profile-trophy)
