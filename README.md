@@ -82,13 +82,13 @@ I am a second year Computer Engineering Student at [MIT Academy Of Engineering](
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/prasad_dhobale)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasadDhobale&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prasad's github stats" /></a> | <a href="https://github.com/PrasadDhobale/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadDhobale&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=PrasadDhobale&row=2&column=3" />](https://github.com/PrasadDhobale/github-profile-trophy)
 [<img src="https://github-readme-stats.vercel.app/api?username=PrasadDhobale&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/PrasadDhobale/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrasadDhobale&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadDhobale&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/PrasadDhobale/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrasadDhobale&theme=dark)](https://github.com/PrasadDhobale/github-readme-streak-stats)
+[![Prasad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadDhobale&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/PrasadDhobale/github-readme-stats)
  -->
