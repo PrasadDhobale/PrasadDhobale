@@ -1,6 +1,6 @@
 ### Hi there, I'm [Prasad Dhobale](https://prasad-dhobale.netlify.app/) 👋
 
-I am a second year Computer Engineering Student at [MIT Academy Of Engineering](http://mitaoe.ac.in), Pune. Apart from that I am Full Stack Developer that loves developing realtime projects and contributing to open source.
+I am a third year Computer Engineering Student at [MIT Academy Of Engineering](http://mitaoe.ac.in), Pune. Apart from that I am Full Stack Developer that loves developing realtime projects and contributing to open source.
 
 **My Reseach Interest**:
 - Full Stack Development
